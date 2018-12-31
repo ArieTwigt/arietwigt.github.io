@@ -230,7 +230,7 @@ hr {
 }
 
 .no-style-link:hover {
-  color: #919191;
+  color: #1b2653;
 }
 
 .clear {
@@ -2165,7 +2165,7 @@ fieldset[disabled] .form-control:hover {
 
 /* ---- 7.1 Footer Widgets ---- */
 .footer-widgets {
-  background: #111;
+  background:  #1b2653;
 }
 
 .footer-widgets .widget .header-widget {
@@ -2939,12 +2939,12 @@ fieldset[disabled] .form-control:hover {
 
 /* ---- Navbar Inverse (Dark) ---- */
 .navbar-inverse {
-  border-bottom: 1px solid #222;
-  background: #111;
+  border-bottom: 1px solid#1b2653;
+  background: #1b2653;
 }
 
 .navbar-inverse .navbar-nav li a {
-  color: #777;
+  color: #ffffff;
 }
 
 .navbar-inverse .navbar-nav li a:hover {
